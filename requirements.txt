@@ -2,6 +2,8 @@ Django==2.1.5
 django-crispy-forms==1.7.2
 django-filter==1.1.0
 djangorestframework==3.8.2
+djangorestframework-jwt==1.11.0
 Markdown==2.6.11
 Pillow==5.4.1
+PyJWT==1.7.1
 pytz==2018.9
